@@ -20,7 +20,7 @@ The **Smart Travel Alarm** app is built using Flutter’s **Canvas Framework** f
 
   
   **First Onboarding page**\
-![Output](Screenshot/ss 1.png)\
+![Output](https://github.com/Mahfuz64/softvence_task/blob/main/Screenshot/ss%201.png))\
 
 
 ### 🚀 Running the Project
