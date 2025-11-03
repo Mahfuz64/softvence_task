@@ -18,6 +18,11 @@ The **Smart Travel Alarm** app is built using Flutter’s **Canvas Framework** f
 - **flutter_local_notifications** and **timezone:**  
   Work together to schedule alarms accurately based on the user’s **local time zone**, even when traveling.
 
+  
+  **First Onboarding page**\
+![Output](Screenshot/ss 1.png)\
+
+
 ### 🚀 Running the Project
 
 To set up and run the app locally, follow these steps:
@@ -26,6 +31,8 @@ To set up and run the app locally, follow these steps:
 # 1️⃣ Clone the repository
 git clone [Your Repository URL Here]
 cd smart_travel_alarm
+
+
 
 # 2️⃣ Install dependencies
 flutter pub get
